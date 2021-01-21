@@ -1,5 +1,5 @@
 {
-  "name": "ts-jest",
+  "name": "rao-utils",
   "version": "1.0.0",
   "description": "使用 ts + jest, 用于测试写的 ts 代码有没有问题",
   "main": "index.js",
